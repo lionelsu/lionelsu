@@ -9,7 +9,6 @@
 - 💼 Sou apaixonado por tecnologia e por isso, sempre tento estar por dentro de tudo e com isso, impulsionar minha carreira. 
 
 ##
-
 <div align="center">
   <a href="https://github.com/lionelsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lionelsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
