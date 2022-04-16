@@ -1,12 +1,9 @@
 ### Olá, eu sou Lionel Miranda!
 
-<p> Atualmente moro em Campo Grande/MS e estudo Graduação em Análise e Desenvolvimento de Sistemas na faculdade. Também estudo em paralelo com as Bootcamps da Dio._ e da Rocketseat.</p>
 
 ##
 
-- 🐱‍👓 Estou estudando mais a fundo a trilha Full Stack Web
-- 🌱 Tenho experiencia com JAVA e Python, eu também já trabalhei com C++.
-- 💼 Sou apaixonado por tecnologia e por isso, sempre tento estar por dentro de tudo e com isso, impulsionar minha carreira. 
+
 
 ##
 <div align="center">
