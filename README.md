@@ -1,6 +1,6 @@
 ### Olá, eu sou Lionel Miranda!
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lionelsu&label=Profile%20views&color=0e75b6&style=flat" alt="lionelsu" /> </p>
 ##
 
 <div align="center">
