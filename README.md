@@ -1,10 +1,8 @@
-### Hi, I'm Lionel Miranda!
-<div align="right">
-  <a href="https://github.com/lionelsu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?    username=lionelsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</div>
+## Hi, I'm Lionel Miranda!
 
-## Connect with me:
+![](https://komarev.com/ghpvc/?username=lionelsu&color=red)
+
+## Connect with me
 
 <div align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -13,21 +11,39 @@
   <a href="https://www.linkedin.com/in/lionelsu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-## Tecnologies:
+## Tecnologies
 
-<div align="left" style="display: inline_block"><br>
-  <img align="center" alt="su-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="su-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="su-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+  <br>
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=jest)
+  
+<!-- ## DevOps
 
-## Tools:
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  
+## Dev Tools
 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![InteliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
 
+## Tools & Other
+
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=insomnia)
+  ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=for-the-badge&logo=zoom)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=for-the-badge&logo=slack)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=for-the-badge&logo=notion)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello) -->
 
 ##
 
-
+<div align="center">
+  <a href="https://github.com/lionelsu">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lionelsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelsu&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
