@@ -1,6 +1,6 @@
-## Hi, I'm Lionel Miranda!
-
 ![](https://komarev.com/ghpvc/?username=lionelsu&color=red)
+
+## Hi, I'm Lionel Miranda!
 
 ## Connect with me
 
