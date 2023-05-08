@@ -1,6 +1,7 @@
 # Hi, I'm Lionel Miranda!
-
-##
+<div align="right">
+  <a href="https://github.com/lionelsu">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lionelsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
 ## Connect with me:
 
@@ -19,11 +20,13 @@
   <img align="center" alt="su-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+## Tools:
+
+
+
 ##
 
-<div align="center">
-  <a href="https://github.com/lionelsu">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lionelsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelsu&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
