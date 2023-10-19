@@ -11,14 +11,29 @@
   <a href="https://www.linkedin.com/in/lionelsu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-## Tecnologies
-
+## Languages
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=TypeScript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+
+## Tecnologies & Tools
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
+  ![Hooks](https://img.shields.io/badge/-hooks-333333?style=for-the-badge&logo=hooks)
+  ![RTL](https://img.shields.io/badge/-RTL-333333?style=for-the-badge&logo=RTL)
+  ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=for-the-badge&logo=NodeJs)
+  ![exoress js](https://img.shields.io/badge/-express-333333?style=for-the-badge&logo=express)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=MySQL)
+  ![Unix](https://img.shields.io/badge/-Unix-333333?style=for-the-badge&logo=Unix)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=bash)
   <br>
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=jest)
+  ![chai](https://img.shields.io/badge/-chai-333333?style=for-the-badge&logo=chai)
+  ![mocha](https://img.shields.io/badge/-mocha-333333?style=for-the-badge&logo=mocha)
+  ![stryker](https://img.shields.io/badge/-stryker-333333?style=for-the-badge&logo=stryker)
+  ![swagger](https://img.shields.io/badge/-swagger-333333?style=for-the-badge&logo=swagger)
+  ![postman](https://img.shields.io/badge/-postman-333333?style=for-the-badge&logo=postman)
   
 <!-- ## DevOps
 
