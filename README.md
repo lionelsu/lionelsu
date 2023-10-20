@@ -24,7 +24,9 @@
   ![RTL](https://img.shields.io/badge/-RTL-333333?style=for-the-badge&logo=RTL)
   ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=for-the-badge&logo=NodeJs)
   ![exoress js](https://img.shields.io/badge/-express-333333?style=for-the-badge&logo=express)
+  ![JWT](https://img.shields.io/badge/-jwt-333333?style=for-the-badge&logo=jwt)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=MySQL)
+  ![ORM](https://img.shields.io/badge/-orm-333333?style=for-the-badge&logo=orm)
   ![Unix](https://img.shields.io/badge/-Unix-333333?style=for-the-badge&logo=Unix)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=bash)
   <br>
