@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=lionelsu&color=red)
 
-## Hi, I'm Lionel Miranda!
+## Hi, I'm Lionel Miranda
+
+  Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou concluindo o curso da @trybe de **Desenvolvimento Web Full Stack**, meu objetivo é atuar em projetos Full Stack com ênfase no **Back End**, mas experiências em outras áreas também são bem vindas.
 
 ## Connect with me
 
@@ -12,11 +14,13 @@
 </div>
 
 ## Languages
+
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=TypeScript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
 
 ## Tecnologies & Tools
+
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
