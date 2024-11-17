@@ -1,6 +1,6 @@
 ## Hi, I'm Lionel Miranda
 
-  Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente estou concluindo o curso da @trybe de **Desenvolvimento Web Full Stack**, meu objetivo é atuar em projetos Full Stack com ênfase no **Back End**, mas experiências em outras áreas também são bem vindas.
+  Sou graduado em **Análise e Desenvolvimento de Sistemas**, **Desenvolvimento Web Full Stack**, gosto de atuar em projetos com ênfase no **Back End**, mas experiências em outras áreas também são bem vindas.
 
 ## Connect with me
 
